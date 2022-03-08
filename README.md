@@ -5,9 +5,9 @@
 
 ### Connect with me:
 
-[![Renewed Scripts](./img/discord-blue.svg)](https://discord.gg/AS2Y8TWejt)
-[![Elevated Roleplay](./img/discord-blue.svg)](https://discord.gg/ElevatedRoleplay)
-[![QBCore](./img/discord-blue.svg)](https://discord.gg/QBCore)
+[Renewed Scripts](https://discord.gg/AS2Y8TWejt)
+[Elevated Roleplay](https://discord.gg/ElevatedRoleplay)
+[QBCore](https://discord.gg/QBCore)
 
 ### Languages
 
