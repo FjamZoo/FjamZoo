@@ -1,3 +1,16 @@
-Hi I'm FjamZoo, self taught Programmer with knowledge in mostly LUA. However I can do small edits and stuff in html, css and JS.
-I used to own a server called RuinedRP with about 2.2k memebers.
-I now make FiveM scripts for the QBCore framework which you can check out here: https://discord.gg/AS2Y8TWejt
+## Self taught, QBCore Developer and can recite any Juice Wrld Lyric.
+
+- 🌱 Expanding my knowledge everyday
+- 🥅 2022 Goals: Don't take shit for granted
+
+### Connect with me:
+
+[![Renewed Scripts](./img/discord-blue.svg)](https://discord.gg/AS2Y8TWejt)
+[![Elevated Roleplay](./img/discord-blue.svg)](https://discord.gg/ElevatedRoleplay)
+[![QBCore](./img/discord-blue.svg)](https://discord.gg/QBCore)
+
+### Languages
+
+- Lua | Skilled
+- JS | Beginner
+- CSS | Can anyone be bad at this?
