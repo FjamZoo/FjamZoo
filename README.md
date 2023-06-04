@@ -1,17 +1,7 @@
-## Self taught, QBCore Developer and can recite any Juice Wrld Lyric.
+## Renewed Developer
 
-- 🌱 Expanding my knowledge everyday
-- 🥅 2022 Goals: Don't take shit for granted
+I want to die most days 
 
 ### Connect with me:
 [Renewed Scripts](https://discord.gg/AS2Y8TWejt) - Scripts Discord
 
-[Elevated Roleplay](https://discord.gg/ElevatedRoleplay) - Developer
-
-[QBCore](https://discord.gg/QBCore) - Developer
-
-### Languages
-
-- Lua | Skilled
-- JS | Beginner
-- CSS | Can anyone be bad at this?
